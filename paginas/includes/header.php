@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang="en" class="no-js">
 
 <head>
   <meta charset="UTF-8" />
@@ -116,5 +116,5 @@
     <!-- Meu js -->
     <script src="public/js/scriptLuiz.js"></script>
 
-<html lang="en" class="no-js">
+
 
