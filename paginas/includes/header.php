@@ -18,7 +18,12 @@
 	<link rel="stylesheet" type="text/css" href="public/css/card.css" />
 	<link rel="stylesheet" type="text/css" href="public/css/pattern.css" />
   
-  
+
+    <!-- CSS da pagina sobre -->
+    <link rel="stylesheet" href="public/css/sobre_joyce_css.css">
+
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

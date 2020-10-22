@@ -12,19 +12,9 @@
 
 <body class="demo-3">
 	<div class="container">
-		<header class="codrops-header">
-			<div class="codrops-links">
-				<a class="codrops-icon codrops-icon--prev" href="http://tympanus.net/Development/ColorExtraction/" title="Previous Demo"><span>Previous Demo</span></a>
-				<a class="codrops-icon codrops-icon--drop" href="http://tympanus.net/codrops/?p=24222" title="Back to the article"><span>Back to the Codrops article</span></a>
-			</div>
-			<h1>Card Expansion Effect with SVG clipPath  <span>Polygonal clip, reversed pattern.</span></h1>
-			<nav class="codrops-demos">
-				<a href="index.html">Demo 1</a>
-				<a href="index2.html">Demo 2</a>
-				<a class="current-demo" href="index3.html">Demo 3</a>
-				<a href="index4.html">Demo 4</a>
-			</nav>
-		</header>
+
+		<h1>Destaques</h1>
+
 		<div class="content">
 			<!-- trianglify pattern container -->
 			<div class="pattern pattern--hidden"></div>
@@ -225,18 +215,8 @@
 			</div>
 			<!-- /cards -->
 		</div><!-- /content -->
-		<!-- Related demos -->
-		<section class="content content--related">
-			<p>If you enjoyed this demo you might also like:</p>
-			<a class="media-item" href="http://tympanus.net/Development/AnimatedGridLayout/">
-				<img class="media-item__img" src="img/related/GridItemAnimation.jpg">
-				<h3 class="media-item__title">Grid Item Animation Layout</h3>
-			</a>
-			<a class="media-item" href="http://tympanus.net/Tutorials/ThumbnailGridExpandingPreview/">
-				<img class="media-item__img" src="img/related/ThumbnailGridExpandingPreview.jpg">
-				<h3 class="media-item__title">Thumbnail Grid with Expanding Preview</h3>
-			</a>
-		</section>
+
+
 	</div>
 	<!-- /container -->
 
