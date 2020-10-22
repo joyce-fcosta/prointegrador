@@ -3,22 +3,22 @@
 <html lang="en" class="no-js">
 
 <head>
-  <meta charset="UTF-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Card Expansion Effect - Demo 3</title>
-	<meta name="description" content="Card Expansion Effect with SVG clipPath" />
-	<meta name="keywords" content="clipPath, svg, effect, layout, expansion, images, grid, polygon" />
-	<meta name="author" content="Claudio Calautti for Codrops" />
-	<link rel="shortcut icon" href="favicon.ico">
-	<link rel="stylesheet" type="text/css" href="public/css/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="public/css/normalize.css" />
-	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
-	<link rel="stylesheet" type="text/css" href="public/css/demo.css" />
-	<link rel="stylesheet" type="text/css" href="public/css/card.css" />
-	<link rel="stylesheet" type="text/css" href="public/css/pattern.css" />
-  
-  
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Card Expansion Effect - Demo 3</title>
+    <meta name="description" content="Card Expansion Effect with SVG clipPath" />
+    <meta name="keywords" content="clipPath, svg, effect, layout, expansion, images, grid, polygon" />
+    <meta name="author" content="Claudio Calautti for Codrops" />
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="public/css/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="public/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="public/css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="public/css/card.css" />
+    <link rel="stylesheet" type="text/css" href="public/css/pattern.css" />
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -43,65 +43,37 @@
         <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
         <ul class="menu">
             <li><a class="homer" href="#"><i class="fa fa-home"></i> Início</a>
+
+            </li>
+            <li><a href="htt"><i class="fa fa-user"></i> Ciência</a>
                 <ul class="sub-menu">
-                    <li><a href="#">Sub-Menu 1</a></li>
-                    <li><a href="#">Sub-Menu 2</a></li>
-                    <li><a href="#">Sub-Menu 3</a></li>
-                    <li><a href="#">Sub-Menu 4</a></li>
-                    <li><a href="#">Sub-Menu 5</a></li>
+                    <li><a href="#">Inteligência Artificial</a></li>
+                    <li><a href="#">Big Data</a></li>
+
                 </ul>
             </li>
-            <li><a href="htt"><i class="fa fa-user"></i> Ciência</a></li>
             <li><a href="#"><i class="fa fa-camera"></i> Geek</a>
                 <ul class="sub-menu">
-                    <li><a href="#">Sub-Menu 1</a></li>
-                    <li><a href="#">Sub-Menu 2</a>
-                        <ul>
-                            <li><a href="#">Sub Sub-Menu 1</a></li>
-                            <li><a href="#">Sub Sub-Menu 2</a></li>
-                            <li><a href="#">Sub Sub-Menu 3</a></li>
-                            <li><a href="#">Sub Sub-Menu 4</a></li>
-                            <li><a href="#">Sub Sub-Menu 5</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Sub-Menu 3</a>
-                        <ul>
-                            <li><a href="#">Sub Sub-Menu 1</a></li>
-                            <li><a href="#">Sub Sub-Menu 2</a></li>
-                            <li><a href="#">Sub Sub-Menu 3</a></li>
-                            <li><a href="#">Sub Sub-Menu 4</a></li>
-                            <li><a href="#">Sub Sub-Menu 5</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="#">Jogos</a></li>
+                    <li><a href="#">Quadrinhos</a></li>
+
                 </ul>
             </li>
             <li><a href="#"><i class="fa fa-bullhorn"></i> Finanças</a></li>
             <li><a href="#"><i class="fa fa-tags"></i> Mobile</a>
                 <ul class="sub-menu">
-                    <li><a href="#">Sub-Menu 1</a></li>
-                    <li><a href="#">Sub-Menu 2</a>
-                        <ul>
-                            <li><a href="#">Sub Sub-Menu 1</a></li>
-                            <li><a href="#">Sub Sub-Menu 2</a></li>
-                            <li><a href="#">Sub Sub-Menu 3</a></li>
-                            <li><a href="#">Sub Sub-Menu 4</a></li>
-                            <li><a href="#">Sub Sub-Menu 5</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Sub-Menu 3</a>
-                        <ul>
-                            <li><a href="#">Sub Sub-Menu 1</a></li>
-                            <li><a href="#">Sub Sub-Menu 2</a></li>
-                            <li><a href="#">Sub Sub-Menu 3</a></li>
-                            <li><a href="#">Sub Sub-Menu 4</a></li>
-                            <li><a href="#">Sub Sub-Menu 5</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="#">iOS</a></li>
+                    <li><a href="#">Android</a></li>
+
                 </ul>
             </li>
-            <li><a href="#"><i class="fa fa-envelope"></i> IoT</a></li>
-            <li><a href="#"><i class="fa fa-sitemap"></i> SITEMAP</a></li>
-            <li><a href="#"><i class="fa fa-exclamation-triangle"></i> DISCLAIMER</a></li>
+            <li><a href="#"><i class="fa fa-envelope"></i> IoT</a>
+                <ul class="sub-menu">
+                    <li><a href="#">Casas inteligentes</a></li>
+                    <li><a href="#">Alexa</a></li>
+
+                </ul>
+            </li>
         </ul>
     </nav>
 
@@ -115,6 +87,3 @@
     <script src="public/css/bootstrap/js/bootstrap.min.js"></script>
     <!-- Meu js -->
     <script src="public/js/scriptLuiz.js"></script>
-
-
-
