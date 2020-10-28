@@ -34,7 +34,7 @@
 
         <div class="row p-2">
             <div class="col-2 border border-right border-top-0 border-bottom-0 border-left-0">
-                <a class="politica text-center" href="index.php?pg=termosdeuso">Termos de uso</a>
+                <a class="politica text-center" href="index.php?pg=termos">Termos de uso</a>
             </div>
 
             <div class="col-2">
